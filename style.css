@@ -212,9 +212,6 @@ padding: 20px;
 
 
 @media all and (max-width: 800px) {
-    body {
-        background-color: whitesmoke;
-    }
     .aboutme1 {
         flex-direction: column;
     }
